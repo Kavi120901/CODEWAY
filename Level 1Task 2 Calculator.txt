@@ -1,0 +1,1 @@
+This is a simple web-based calculator application designed to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. It allows users to input numbers and operators via clickable buttons and displays the result on the screen.
