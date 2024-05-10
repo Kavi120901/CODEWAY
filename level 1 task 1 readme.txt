@@ -1,0 +1,2 @@
+
+The portfolio website project entails crafting a personalized digital platform to showcase skills, projects, and contact information. It offers a custom design reflecting individual style and branding, with sections for introduction, portfolio display, skills highlight, and contact details. Utilizing HTML, CSS, and JavaScript, it ensures responsive design for optimal viewing across devices
